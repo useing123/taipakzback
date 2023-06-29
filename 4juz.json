@@ -1,0 +1,30 @@
+{
+    "taipa": "Jüzden-Tüs",
+    "rular": [
+      {
+        "name": "Tóre",
+        "description": "Description of Tóre",
+        "picture": "Link to picture of Tóre"
+      },
+      {
+        "name": "Qoja",
+        "description": "Description of Qoja",
+        "picture": "Link to picture of Qoja"
+      },
+      {
+        "name": "Tóleńgit",
+        "description": "Description of Tóleńgit",
+        "picture": "Link to picture of Tóleńgit"
+      },
+      {
+        "name": "Qyrǵyz Ruı",
+        "description": "Description of Qyrǵyz Ruı",
+        "picture": "Link to picture of Qyrǵyz Ruı"
+      },
+      {
+        "taipa": "Orys-Juz",
+        "description": "Description of Orys-Juz",
+        "picture": "Link to picture of Orys-Juz"
+      }
+    ]
+  }
